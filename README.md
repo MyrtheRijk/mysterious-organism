@@ -1,2 +1,2 @@
 # mysterious-organism
-Javascript exercise from Codecademy
+This project is an exercise from Codecademy to practice with Javascript. The story behind this project is that I'm part of a research team that has found a new mysterious organism at the bottom of the ocean near hydrothermal vents. My team names the organism, Pila aequor (P. aequor), and finds that it is only comprised of 15 DNA bases. The small DNA samples and frequency at which it mutates due to the hydrothermal vents make P. aequor an interesting specimen to study. However, P. aequor cannot survive above sea level and locating P. aequor in the deep sea is difficult and expensive. My job was to create objects that simulate the DNA of P. aequor for my research team to study.
